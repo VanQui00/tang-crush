@@ -29,7 +29,7 @@
       <div class="content">
         <header>
           <h2> Bé đi chơi nhaaa ._.</h2>
-          <h4>Nếu cậu ko trả lời mà thoát ra tức là chịu rùi đó nha :v </h4>
+          <h4>Nếu cậu ko trả lời mà thoát ra tức là chịu rùi đó nhaa :v </h4>
         </header>
         <button id="yes" type="button" class="btn btn-danger btn-lg">Đi Thì Đi Mà Hõng Đi Cũng Phải Đi <333 </button>
         <button id="no" type="button" class="btn btn-info btn-lg">Cậu mơ à :333 </button>
