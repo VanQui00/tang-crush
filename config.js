@@ -28,10 +28,10 @@
       <div id="bg"></div>
       <div class="content">
         <header>
-          <h2>Cậu yêu tớ có phải không nào ._.</h2>
-          <h4>Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v </h4>
+          <h2> Bé đi chơi nhaaa ._.</h2>
+          <h4>Nếu cậu ko trả lời mà thoát ra tức là chịu rùi đó nha :v </h4>
         </header>
-        <button id="yes" type="button" class="btn btn-danger btn-lg">Yêu ơi là yêuuuuuu <333 </button>
+        <button id="yes" type="button" class="btn btn-danger btn-lg">Đi Thì Đi Mà Hõng Đi Cũng Phải Đi <333 </button>
         <button id="no" type="button" class="btn btn-info btn-lg">Cậu mơ à :333 </button>
       </div>
     </div>
